@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi there, I'm Huan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
+
+<!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Hannah825)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huan.yuan825@gmail.com)
 
@@ -11,7 +13,7 @@ I'm currently pursuing the Master's degree in Software Engineering at the Univer
 - **🌱 Currently Learning:** Robust full-stack system design implementation and development.
 - **🔍 Exploring:** The intersection of technology and creative problem-solving.
 - **⚡ Tech Stack:** Proficient in C++, Javascript, Python, and Java.
-
+-->
 
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huanyuan/)
